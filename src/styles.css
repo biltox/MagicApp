@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+}
+
+:root {
+    --background-color:#1a1a1a;
+    --onHover-black-color : #2b2b2b;
+    --accent-green : #8bc400;
+    --accent-lilac-hover: #A580CA;
+    --dark-purple: #120239;
+    
+
+}
+@font-face {
+    font-family:roboto ;
+    src: url(./assets/fonts/RobotoMono-Regular.ttf);
+}
+
+@font-face {
+    font-family:magic ;
+    src: url(./assets/fonts/MAGIC.TTF);
+}
+
+@font-face{
+    font-family:nunito-regular;
+    src: url(./assets/fonts/Nunito-Regular.ttf);
+}
+@font-face {
+    font-family: ubunto-regular;
+    src: url(./assets/fonts/UbuntuMono-Regular.ttf);
+}
+@font-face {
+    font-family: varelaRound;
+    src: url(./assets/fonts/VarelaRound-Regular.ttf);
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
